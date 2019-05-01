@@ -1,0 +1,12 @@
+server:
+  port: 8081
+spring:
+  rabbitmq:
+    host: 192.168.211.139
+
+aliyun:
+  # 阿里云短信服务中查找
+  accessKeyId: xx
+  accessSecret: xx
+  SignName: xx
+  TemplateCode: xx
